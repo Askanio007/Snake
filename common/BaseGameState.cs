@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace snake
+namespace snake.common
 {
     internal abstract class BaseGameState
     {

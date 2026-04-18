@@ -1,4 +1,7 @@
 ﻿
+using snake.core;
+using snake.input;
+
 namespace snake
 {
     internal class SnakeGame

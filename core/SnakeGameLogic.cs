@@ -1,8 +1,10 @@
-﻿using System;
+﻿using snake.common;
+using snake.input;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace snake
+namespace snake.core
 {
     class SnakeGameLogic : BaseGameLogic
     {

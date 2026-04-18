@@ -1,8 +1,9 @@
-﻿using System;
+﻿using snake.common;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace snake
+namespace snake.input
 {
     internal class ConsoleInput
     {

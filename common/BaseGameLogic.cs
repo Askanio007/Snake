@@ -1,8 +1,9 @@
-﻿using System;
+﻿using snake.input;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace snake
+namespace snake.common
 {
     abstract class BaseGameLogic : IArrowListener
     {
